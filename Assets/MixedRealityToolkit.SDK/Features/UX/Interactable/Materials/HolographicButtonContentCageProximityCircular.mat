@@ -49,7 +49,7 @@ Material:
     - _BorderLightReplacesAlbedo: 0
     - _BorderLightUsesHoverColor: 0
     - _BorderMinValue: 1
-    - _BorderWidth: 0.02
+    - _BorderWidth: 0.04
     - _ClippingBorder: 0
     - _ClippingBorderWidth: 0.025
     - _ColorWriteMask: 15
@@ -58,7 +58,7 @@ Material:
     - _Cutoff: 0.5
     - _DirectionalLight: 0
     - _DstBlend: 1
-    - _EdgeSmoothingValue: 0.0005
+    - _EdgeSmoothingValue: 0
     - _EnableChannelMap: 0
     - _EnableEmission: 0
     - _EnableHoverColorOverride: 0
@@ -66,8 +66,8 @@ Material:
     - _EnableNormalMap: 0
     - _EnableProximityLightColorOverride: 0
     - _EnableTriplanarMapping: 0
-    - _EnvironmentColorIntensity: 0.5
-    - _EnvironmentColorThreshold: 1.5
+    - _EnvironmentColorIntensity: 0.67
+    - _EnvironmentColorThreshold: 1.98
     - _EnvironmentColoring: 0
     - _FadeBeginDistance: 0.01
     - _FadeCompleteDistance: 0.4

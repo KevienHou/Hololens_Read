@@ -15,6 +15,7 @@ public class MyContainActiveSet : MonoBehaviour
     {
         items[0].SetActive(true);
         current = 0;
+        Move(0);
     }
 
 
